@@ -1,0 +1,23 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "Git and Node basic",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naviet/bootstrap.git"
+  },
+  "keywords": [
+    "Bootstrap",
+    "tutorial"
+  ],
+  "author": "Viet Nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naviet/bootstrap/issues"
+  },
+  "homepage": "https://github.com/naviet/bootstrap#readme"
+}
